@@ -39,6 +39,7 @@ dependencies:
   get:
   camera:
   flutter_firebase_ml_vision:
+  firebase_ml_vision: ^0.12.0+3
 
 dev_dependencies:
   flutter_test:
