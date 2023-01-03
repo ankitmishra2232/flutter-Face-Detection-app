@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1000234065505",
+    "project_id": "face-detector-app-e35dc",
+    "storage_bucket": "face-detector-app-e35dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000234065505:android:b89adb9bf9904721695420",
+        "android_client_info": {
+          "package_name": "com.example.ml_face_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000234065505-882n7irt61fhfb4amuhc3u32m36dsqe4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtRq5ZHC9XOEaqgsry4U9Qn3MA3pMcfww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000234065505-882n7irt61fhfb4amuhc3u32m36dsqe4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
